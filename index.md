@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Capstone Projects
 
-[Project 1 Title](/sample_page)
+[Basics of Data Science](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
