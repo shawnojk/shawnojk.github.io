@@ -4,7 +4,7 @@
 
 ### Capstone Projects
 
-[Basics of Data Science](/Basics-of-Data-Science)
+[Basics of Data Science](https://github.com/shawnojk/Basics-of-Data-Science)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
